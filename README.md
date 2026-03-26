@@ -2,11 +2,11 @@
 
 # ⚙️ زيد | Systems Developer
 
-### Systems • Architecture • Web • FiveM • Full Stack
+### Systems • Web • FiveM • Full Stack
 
-<img src="https://img.shields.io/badge/Focus-Systems%20Engineering-0d1117?style=flat-square"/>
-<img src="https://img.shields.io/badge/Specialty-Backend%20%26%20Architecture-0d1117?style=flat-square"/>
-<img src="https://img.shields.io/badge/Mindset-Innovation-0d1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Systems%20Engineering-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Specialty-Backend%20%26%20Architecture-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mindset-Building%20Not%20Copying-0d1117?style=for-the-badge"/>
 
 <br><br>
 
@@ -18,10 +18,15 @@
 
 <div align="center">
 
-## 🧠 من أنا
+## 💻 لغات البرمجة
 
-مطور برمجيات أركز على **بناء الأنظمة (Systems)** وليس فقط كتابة كود.  
-أعمل على تحويل الأفكار إلى **منتجات حقيقية قابلة للتوسع** من خلال تصميم معماريات واضحة ومنظمة.
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
 
 </div>
 
@@ -29,69 +34,76 @@
 
 <div align="center">
 
-## ⚙️ كيف أعمل
+## ⚙️ التقنيات
+
+<img src="https://img.shields.io/badge/FiveM-FF6B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/QBCore-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NUI-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/APIs-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Databases-003B57?style=for-the-badge"/>
 
 </div>
 
-```text
-• أفكر كنظام وليس كملف كود
-• أبني Architecture قبل التنفيذ
-• أركز على الأداء وقابلية التوسع
-• أكتب كود نظيف قابل للصيانة
-• أبتعد عن الحلول الجاهزة وأبني الخاص بي
-<div align="center">
-💻 لغات البرمجة
-</div> <p align="center"> <img src="https://img.shields.io/badge/C-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/C++-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/Lua-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/JavaScript-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/HTML-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/CSS-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/SQL-1f2937?style=flat-square"/> </p>
-<div align="center">
-🧰 التقنيات والأدوات
-</div> <p align="center"> <img src="https://img.shields.io/badge/FiveM-ff6b00?style=flat-square"/> <img src="https://img.shields.io/badge/QBCore-161b22?style=flat-square"/> <img src="https://img.shields.io/badge/NUI-0d1117?style=flat-square"/> <img src="https://img.shields.io/badge/APIs-0a8f8f?style=flat-square"/> <img src="https://img.shields.io/badge/Databases-1f4b99?style=flat-square"/> <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square"/> <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square"/> <img src="https://img.shields.io/badge/Cloudflare-f38020?style=flat-square"/> </p>
-<div align="center">
-🚀 ماذا أبني
-</div>
-• أنظمة متكاملة (Full Systems)
-• لوحات تحكم (Dashboards)
-• APIs وخدمات خلفية
-• واجهات تفاعلية (NUI / Web UI)
-• أنظمة ألعاب (Game Systems - FiveM)
-• أدوات مخصصة (Custom Tools)
-<div align="center">
-🧠 مجالات القوة
-</div> <p align="center"> <img src="https://img.shields.io/badge/System%20Design-111111?style=flat-square"/> <img src="https://img.shields.io/badge/Backend%20Logic-111111?style=flat-square"/> <img src="https://img.shields.io/badge/Problem%20Solving-111111?style=flat-square"/> <img src="https://img.shields.io/badge/Architecture-111111?style=flat-square"/> <img src="https://img.shields.io/badge/Performance-111111?style=flat-square"/> </p>
-<div align="center">
-📊 GitHub Stats
-</div> <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abual3bed00&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abual3bed00&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" /> </p> <p align="center"> <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abual3bed00&theme=tokyonight&hide_border=true&border_radius=12" /> </p>
-<div align="center">
-⚡ فلسفتي
+---
 
-<b>أنا لا أبحث عن حلول جاهزة… أنا أبني حلول جديدة.</b>
+<div align="center">
+
+## 🧰 أدوات العمل
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 
 </div>
+
+---
+
+<div align="center">
+
+## 🚀 ماذا أبني
+
+<img src="https://img.shields.io/badge/Systems-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/APIs-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dashboards-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tools-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Game%20Systems-111111?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abual3bed00&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abual3bed00&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<div align="center">
-⚙️ Zaid | Systems Developer
-Systems • Architecture • Backend • Web
-</div>
-<div align="center">
-🧠 About Me
-
-I’m a developer focused on building systems, not just writing code.
-I design scalable architectures and turn ideas into real, structured products.
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abual3bed00&theme=tokyonight&hide_border=true"/>
 
 </div>
-<div align="center">
-🛠️ Tech Stack
-</div> <p align="center"> <img src="https://img.shields.io/badge/C-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/C++-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/Lua-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/JavaScript-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/HTML-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/CSS-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/SQL-1f2937?style=flat-square"/> </p> <p align="center"> <img src="https://img.shields.io/badge/FiveM-ff6b00?style=flat-square"/> <img src="https://img.shields.io/badge/QBCore-161b22?style=flat-square"/> <img src="https://img.shields.io/badge/NUI-0d1117?style=flat-square"/> <img src="https://img.shields.io/badge/APIs-0a8f8f?style=flat-square"/> <img src="https://img.shields.io/badge/Databases-1f4b99?style=flat-square"/> </p>
-<div align="center">
-🚀 What I Build
-</div>
-• Full Systems
-• Backend Services & APIs
-• Dashboards & Tools
-• Interactive Interfaces
-• Game Systems
-<div align="center">
-⚡ Philosophy
 
-<b>I don’t look for ready solutions… I build new ones.</b>
+---
+
+<div align="center">
+
+## ⚡ فلسفتي
+
+<img src="https://img.shields.io/badge/I%20build%20solutions%20not%20copy%20them-0d1117?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚙️ Zaid | Systems Developer
+
+### Systems • Backend • Architecture
+
+<img src="https://img.shields.io/badge/I%20don’t%20look%20for%20ready%20solutions-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/I%20build%20new%20ones-0d1117?style=for-the-badge"/>
+
+</div>
