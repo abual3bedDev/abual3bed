@@ -54,19 +54,10 @@
 <p align="center">
 
   <!-- FiveM -->
-  <img src="https://img.shields.io/badge/FiveM-FF6B00?style=flat-square"/>
-  
-  <!-- QBCore -->
-  <img src="https://img.shields.io/badge/QBCore-111111?style=flat-square"/>
-
-  <!-- NUI -->
-  <img src="https://img.shields.io/badge/NUI-0D1117?style=flat-square"/>
-
-  <!-- APIs -->
-  <img src="https://img.shields.io/badge/APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+ <img height="20" src="https://cdn.simpleicons.org/fivem/#F40552"/>
 
   <!-- Database -->
-  <img src="https://img.shields.io/badge/Databases-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img height="20" src="https://cdn.simpleicons.org/mysql/#4479A1"/>
 
   <!-- Supabase -->
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
