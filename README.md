@@ -1,21 +1,27 @@
 <div align="center">
 
-# ⚙️ زيد | مطور أنظمة
+# ⚙️ زيد | Systems Developer
 
-### Systems • Web • FiveM • Full Stack
+### Systems • Architecture • Web • FiveM • Full Stack
+
+<img src="https://img.shields.io/badge/Focus-Systems%20Engineering-0d1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/Specialty-Backend%20%26%20Architecture-0d1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mindset-Innovation-0d1117?style=flat-square"/>
+
+<br><br>
 
 <i>أنا لا أبحث عن حلول جاهزة… أنا أبني حلول جديدة.</i>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-## 🧠 نبذة
+## 🧠 من أنا
 
-مطور برمجيات متخصص في بناء الأنظمة، تطوير الويب، وتصميم حلول متكاملة قابلة للتوسع.  
-أركز على تحويل الأفكار إلى حلول عملية، منظمة، وقابلة للتطوير.
+مطور برمجيات أركز على **بناء الأنظمة (Systems)** وليس فقط كتابة كود.  
+أعمل على تحويل الأفكار إلى **منتجات حقيقية قابلة للتوسع** من خلال تصميم معماريات واضحة ومنظمة.
 
 </div>
 
@@ -23,68 +29,39 @@
 
 <div align="center">
 
-## ⚙️ المهارات التقنية
-
-### 💻 لغات البرمجة
-
-<img src="https://skillicons.dev/icons?i=c,cpp,lua,js,html,css,mysql&perline=7" />
+## ⚙️ كيف أعمل
 
 </div>
 
-<br>
-
+```text
+• أفكر كنظام وليس كملف كود
+• أبني Architecture قبل التنفيذ
+• أركز على الأداء وقابلية التوسع
+• أكتب كود نظيف قابل للصيانة
+• أبتعد عن الحلول الجاهزة وأبني الخاص بي
 <div align="center">
-
-### 🧰 التقنيات والأدوات
-
-<img src="https://skillicons.dev/icons?i=firebase,supabase,cloudflare&perline=3" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/FiveM-FF6B00?style=flat-square" />
-<img src="https://img.shields.io/badge/QBCore-161B22?style=flat-square" />
-<img src="https://img.shields.io/badge/NUI-0D1117?style=flat-square" />
-<img src="https://img.shields.io/badge/APIs-0A8F8F?style=flat-square" />
-<img src="https://img.shields.io/badge/Databases-1F4B99?style=flat-square" />
-
+💻 لغات البرمجة
+</div> <p align="center"> <img src="https://img.shields.io/badge/C-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/C++-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/Lua-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/JavaScript-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/HTML-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/CSS-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/SQL-1f2937?style=flat-square"/> </p>
+<div align="center">
+🧰 التقنيات والأدوات
+</div> <p align="center"> <img src="https://img.shields.io/badge/FiveM-ff6b00?style=flat-square"/> <img src="https://img.shields.io/badge/QBCore-161b22?style=flat-square"/> <img src="https://img.shields.io/badge/NUI-0d1117?style=flat-square"/> <img src="https://img.shields.io/badge/APIs-0a8f8f?style=flat-square"/> <img src="https://img.shields.io/badge/Databases-1f4b99?style=flat-square"/> <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square"/> <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square"/> <img src="https://img.shields.io/badge/Cloudflare-f38020?style=flat-square"/> </p>
+<div align="center">
+🚀 ماذا أبني
 </div>
-
----
-
+• أنظمة متكاملة (Full Systems)
+• لوحات تحكم (Dashboards)
+• APIs وخدمات خلفية
+• واجهات تفاعلية (NUI / Web UI)
+• أنظمة ألعاب (Game Systems - FiveM)
+• أدوات مخصصة (Custom Tools)
 <div align="center">
-
-## 🚀 مجالات عملي
-
-| المجال | الوصف |
-|---|---|
-| 🧠 تصميم الأنظمة | بناء منطق منظم وقابل للتوسع |
-| 🌐 تطوير الويب | واجهات وتجارب استخدام وحلول عملية |
-| 🎮 تطوير أنظمة الألعاب | بناء أنظمة خاصة داخل FiveM |
-| 🎨 تصميم الواجهات | واجهات مرتبة وواضحة وعملية |
-| ⚡ تحسين الأداء | تنظيم الكود وتقليل التعقيد وتحسين الكفاءة |
-
-</div>
-
----
-
+🧠 مجالات القوة
+</div> <p align="center"> <img src="https://img.shields.io/badge/System%20Design-111111?style=flat-square"/> <img src="https://img.shields.io/badge/Backend%20Logic-111111?style=flat-square"/> <img src="https://img.shields.io/badge/Problem%20Solving-111111?style=flat-square"/> <img src="https://img.shields.io/badge/Architecture-111111?style=flat-square"/> <img src="https://img.shields.io/badge/Performance-111111?style=flat-square"/> </p>
 <div align="center">
-
-## 📊 GitHub Stats
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abual3bed00&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abual3bed00&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<br><br>
-
-<img width="62%" src="https://github-readme-streak-stats.herokuapp.com/?user=abual3bed00&theme=tokyonight&hide_border=true&border_radius=12" />
-
-</div>
-
----
-
+📊 GitHub Stats
+</div> <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abual3bed00&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abual3bed00&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" /> </p> <p align="center"> <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abual3bed00&theme=tokyonight&hide_border=true&border_radius=12" /> </p>
 <div align="center">
-
-## ⚡ فلسفتي
+⚡ فلسفتي
 
 <b>أنا لا أبحث عن حلول جاهزة… أنا أبني حلول جديدة.</b>
 
@@ -93,78 +70,28 @@
 <br><br>
 
 <div align="center">
+⚙️ Zaid | Systems Developer
+Systems • Architecture • Backend • Web
+</div>
+<div align="center">
+🧠 About Me
 
-# ⚙️ Zaed | Systems Developer
-
-### Systems • Web • FiveM • Full Stack
-
-<i>I don’t look for ready solutions… I build new ones.</i>
+I’m a developer focused on building systems, not just writing code.
+I design scalable architectures and turn ideas into real, structured products.
 
 </div>
-
-<br>
-
 <div align="center">
-
-## 🧠 About
-
-Software developer focused on building systems, web solutions, and scalable architectures.  
-I care about structure, usability, and turning ideas into real products.
-
+🛠️ Tech Stack
+</div> <p align="center"> <img src="https://img.shields.io/badge/C-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/C++-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/Lua-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/JavaScript-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/HTML-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/CSS-1f2937?style=flat-square"/> <img src="https://img.shields.io/badge/SQL-1f2937?style=flat-square"/> </p> <p align="center"> <img src="https://img.shields.io/badge/FiveM-ff6b00?style=flat-square"/> <img src="https://img.shields.io/badge/QBCore-161b22?style=flat-square"/> <img src="https://img.shields.io/badge/NUI-0d1117?style=flat-square"/> <img src="https://img.shields.io/badge/APIs-0a8f8f?style=flat-square"/> <img src="https://img.shields.io/badge/Databases-1f4b99?style=flat-square"/> </p>
+<div align="center">
+🚀 What I Build
 </div>
-
----
-
+• Full Systems
+• Backend Services & APIs
+• Dashboards & Tools
+• Interactive Interfaces
+• Game Systems
 <div align="center">
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,lua,js,html,css,mysql&perline=7" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 🧰 Technologies & Tools
-
-<img src="https://skillicons.dev/icons?i=firebase,supabase,cloudflare&perline=3" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/FiveM-FF6B00?style=flat-square" />
-<img src="https://img.shields.io/badge/QBCore-161B22?style=flat-square" />
-<img src="https://img.shields.io/badge/NUI-0D1117?style=flat-square" />
-<img src="https://img.shields.io/badge/APIs-0A8F8F?style=flat-square" />
-<img src="https://img.shields.io/badge/Databases-1F4B99?style=flat-square" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 What I Do
-
-| Field | Description |
-|---|---|
-| 🧠 Systems Design | Building scalable and organized logic |
-| 🌐 Web Development | Practical interfaces and real solutions |
-| 🎮 Game Systems | Custom systems for FiveM environments |
-| 🎨 UI Design | Clean and functional interfaces |
-| ⚡ Optimization | Performance-focused structure and code quality |
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Philosophy
+⚡ Philosophy
 
 <b>I don’t look for ready solutions… I build new ones.</b>
-
-</div>
