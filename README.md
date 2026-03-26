@@ -1,119 +1,170 @@
-<h1 align="center" style="margin-bottom:0;">⚙️ زيد | مطور أنظمة</h1>
+<div align="center">
 
-<p align="center" style="margin-top:5px;">
-  <b>Systems • Web • FiveM • Full Stack</b>
-</p>
+# ⚙️ زيد | مطور أنظمة
 
-<p align="center">
-  <i style="color:gray;">أنا لا أكتب كود فقط… أنا أبني أنظمة.</i>
-</p>
+### Systems • Web • FiveM • Full Stack
 
-<hr>
+<i>أنا لا أبحث عن حلول جاهزة… أنا أبني حلول جديدة.</i>
 
-<h2 align="center">🧠 نبذة</h2>
+</div>
 
-<p align="center">
-مطور برمجيات متخصص في بناء الأنظمة، تطوير الويب، وتصميم حلول متكاملة قابلة للتوسع.
-</p>
-
----
-
-<h2 align="center">⚙️ المهارات التقنية</h2>
-
-<h3 align="center">💻 لغات البرمجة</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-<h3 align="center">⚙️ التقنيات</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FiveM-FF6B00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/QBCore-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NUI-222222?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database-003B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-</p>
-
----
-
-<h2 align="center">🚀 مجالات عملي</h2>
+<br>
 
 <div align="center">
 
-🧠 تصميم الأنظمة  
-🌐 تطوير الويب  
-🎮 تطوير أنظمة الألعاب (FiveM)  
-🎨 تصميم واجهات المستخدم  
-⚡ تحسين الأداء  
+## 🧠 نبذة
+
+مطور برمجيات متخصص في بناء الأنظمة، تطوير الويب، وتصميم حلول متكاملة قابلة للتوسع.  
+أركز على تحويل الأفكار إلى حلول عملية، منظمة، وقابلة للتطوير.
 
 </div>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abual3bed00&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abual3bed00&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## ⚙️ المهارات التقنية
 
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abual3bed00&theme=tokyonight&hide_border=true" />
-</p>
+### 💻 لغات البرمجة
 
----
+<img src="https://skillicons.dev/icons?i=c,cpp,lua,js,html,css,mysql&perline=7" />
 
-<h2 align="center">⚡ فلسفتي</h2>
+</div>
 
-<p align="center">
-  <b style="font-size:16px;">أنا لا أبحث عن حلول جاهزة…أنا أبني حلول جديدة.</b>
-</p>
+<br>
 
----
+<div align="center">
 
-<hr>
+### 🧰 التقنيات والأدوات
 
-<h1 align="center">⚙️ Zaed | Software Developer</h1>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,cloudflare&perline=3" />
 
-<p align="center">
-  <b>Systems • Web • FiveM • Full Stack</b>
-</p>
+<br><br>
 
----
+<img src="https://img.shields.io/badge/FiveM-FF6B00?style=flat-square" />
+<img src="https://img.shields.io/badge/QBCore-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/NUI-0D1117?style=flat-square" />
+<img src="https://img.shields.io/badge/APIs-0A8F8F?style=flat-square" />
+<img src="https://img.shields.io/badge/Databases-1F4B99?style=flat-square" />
 
-<h2 align="center">🧠 About</h2>
-
-<p align="center">
-I focus on building scalable systems, clean architecture, and real-world solutions.
-</p>
+</div>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<div align="center">
 
-<p align="center">
-C • C++ • Lua • JavaScript • HTML • CSS • SQL
-</p>
+## 🚀 مجالات عملي
 
-<p align="center">
-FiveM • QBCore • NUI • APIs • Databases • Supabase • Firebase • Cloudflare
-</p>
+| المجال | الوصف |
+|---|---|
+| 🧠 تصميم الأنظمة | بناء منطق منظم وقابل للتوسع |
+| 🌐 تطوير الويب | واجهات وتجارب استخدام وحلول عملية |
+| 🎮 تطوير أنظمة الألعاب | بناء أنظمة خاصة داخل FiveM |
+| 🎨 تصميم الواجهات | واجهات مرتبة وواضحة وعملية |
+| ⚡ تحسين الأداء | تنظيم الكود وتقليل التعقيد وتحسين الكفاءة |
+
+</div>
 
 ---
 
-<h2 align="center">⚡ Philosophy</h2>
+<div align="center">
 
-<p align="center">
-  <b>I don’t look for ready solutions…I build new ones.</b>
-</p>
+## 📊 GitHub Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abual3bed00&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abual3bed00&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<br><br>
+
+<img width="62%" src="https://github-readme-streak-stats.herokuapp.com/?user=abual3bed00&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ فلسفتي
+
+<b>أنا لا أبحث عن حلول جاهزة… أنا أبني حلول جديدة.</b>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+# ⚙️ Zaed | Systems Developer
+
+### Systems • Web • FiveM • Full Stack
+
+<i>I don’t look for ready solutions… I build new ones.</i>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🧠 About
+
+Software developer focused on building systems, web solutions, and scalable architectures.  
+I care about structure, usability, and turning ideas into real products.
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,lua,js,html,css,mysql&perline=7" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🧰 Technologies & Tools
+
+<img src="https://skillicons.dev/icons?i=firebase,supabase,cloudflare&perline=3" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FiveM-FF6B00?style=flat-square" />
+<img src="https://img.shields.io/badge/QBCore-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/NUI-0D1117?style=flat-square" />
+<img src="https://img.shields.io/badge/APIs-0A8F8F?style=flat-square" />
+<img src="https://img.shields.io/badge/Databases-1F4B99?style=flat-square" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 What I Do
+
+| Field | Description |
+|---|---|
+| 🧠 Systems Design | Building scalable and organized logic |
+| 🌐 Web Development | Practical interfaces and real solutions |
+| 🎮 Game Systems | Custom systems for FiveM environments |
+| 🎨 UI Design | Clean and functional interfaces |
+| ⚡ Optimization | Performance-focused structure and code quality |
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Philosophy
+
+<b>I don’t look for ready solutions… I build new ones.</b>
+
+</div>
