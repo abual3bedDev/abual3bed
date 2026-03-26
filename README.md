@@ -38,13 +38,13 @@
 ## 💻 لغات البرمجة
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/C++-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Lua-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/JavaScript-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/HTML-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CSS-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SQL-1f2937?style=flat-square"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 ---
@@ -52,14 +52,31 @@
 ## 🧰 التقنيات والأدوات
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FiveM-ff6b00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/QBCore-161b22?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NUI-0d1117?style=flat-square"/>
-  <img src="https://img.shields.io/badge/APIs-0a8f8f?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Databases-1f4b99?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Cloudflare-f38020?style=flat-square"/>
+
+  <!-- FiveM -->
+  <img src="https://img.shields.io/badge/FiveM-FF6B00?style=flat-square"/>
+  
+  <!-- QBCore -->
+  <img src="https://img.shields.io/badge/QBCore-111111?style=flat-square"/>
+
+  <!-- NUI -->
+  <img src="https://img.shields.io/badge/NUI-0D1117?style=flat-square"/>
+
+  <!-- APIs -->
+  <img src="https://img.shields.io/badge/APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/Databases-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+  <!-- Supabase -->
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+
+  <!-- Firebase -->
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+
+  <!-- Cloudflare -->
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+
 </p>
 
 ---
